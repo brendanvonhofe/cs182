@@ -1,0 +1,313 @@
+51 
+AL 
+AK 
+AZ 
+AR 
+CA 
+CO 
+CT 
+DC 
+DE 
+FL 
+GA 
+HI 
+ID 
+IL 
+IN 
+IA 
+KS 
+KY 
+LA 
+ME 
+MD 
+MA 
+MI 
+MN 
+MS 
+MO 
+MT 
+NE 
+NV 
+NH 
+NJ 
+NM 
+NY 
+NC 
+ND 
+OH 
+OK 
+OR 
+PA 
+RI 
+SC 
+SD 
+TN 
+TX 
+UT 
+VT 
+VA 
+WA 
+WV 
+WI 
+WY 
+
+AL FL 
+AL GA 
+AL MS 
+AL NC 
+AL SC 
+AL TN 
+AL VA 
+AL WV 
+
+AZ CA 
+AZ NV 
+AZ NM 
+AZ OK 
+AZ OR 
+AZ TX 
+AZ UT 
+AZ WA 
+AZ WY 
+
+AR LA 
+AR MS 
+AR MO 
+AR NE 
+AR OK 
+AR SD 
+AR TN 
+AR TX 
+AR VA 
+AR WV 
+AR WY 
+
+CA NV 
+CA OR 
+CA UT 
+CA WA 
+CA WY 
+
+CO KS 
+CO MO 
+CO NE 
+CO NM 
+CO OK 
+CO SD 
+CO TN 
+CO TX 
+CO UT 
+CO VA 
+CO WV 
+CO WY 
+
+CT MA 
+CT NH 
+CT NY 
+CT PA 
+CT RI 
+CT VT 
+CT WV 
+
+DC MD 
+DC PA 
+DC VA 
+DC WV 
+
+DE MD 
+DE NJ 
+DE NY 
+DE PA 
+DE VT 
+DE VA 
+DE WV 
+
+FL GA 
+FL NC 
+FL SC 
+FL TN 
+FL VA 
+FL WV 
+
+GA NC 
+GA SC 
+GA TN 
+GA VA 
+GA WV 
+
+ID MT 
+ID NV 
+ID ND 
+ID OR 
+ID SD 
+ID UT 
+ID WA 
+ID WY 
+
+IL IN 
+IL KY 
+IL MI 
+IL MO 
+IL NE 
+IL OH 
+IL OK 
+IL PA 
+IL SD 
+IL TN 
+IL TX 
+IL VA 
+IL WV 
+IL WI 
+IL WY 
+
+IN KY 
+IN MI 
+IN MO 
+IN NE 
+IN OH 
+IN OK 
+IN PA 
+IN SD 
+IN TN 
+IN TX 
+IN VA 
+IN WV 
+IN WI 
+IN WY 
+
+IA IL 
+IA IN 
+IA KY 
+IA MI 
+IA MN 
+IA MO 
+IA NE 
+IA ND 
+IA OH 
+IA OK 
+IA PA 
+IA SD 
+IA TN 
+IA TX 
+IA VA 
+IA WV 
+IA WI 
+IA WY 
+
+KS MO 
+KS NE 
+KS OK 
+KS SD 
+KS TN 
+KS TX 
+KS VA 
+KS WV 
+KS WY 
+
+KY MO 
+KY NE 
+KY OH 
+KY OK 
+KY PA 
+KY SD 
+KY TN 
+KY TX 
+KY VA 
+KY WV 
+KY WY 
+
+LA MS 
+LA TN 
+LA TX 
+LA VA 
+LA WV 
+
+ME NH 
+ME VT 
+
+MD PA 
+MD VA 
+MD WV 
+
+MA NH 
+MA NY 
+MA PA 
+MA RI 
+MA VT 
+MA WV 
+
+MI OH 
+MI PA 
+MI WV 
+MI WI 
+
+MN ND 
+MN SD 
+MN WI 
+MN WY 
+
+MS TN 
+MS VA 
+MS WV 
+
+MO NE 
+MO OK 
+MO SD 
+MO TN 
+MO TX 
+MO VA 
+MO WV 
+MO WY 
+
+MT ND 
+MT SD 
+MT WY 
+
+NE SD 
+NE WY 
+
+NV OR 
+NV UT 
+NV WA 
+NV WY 
+
+NH VT 
+
+NJ NY 
+NJ PA 
+NJ VT 
+NJ WV 
+
+NM OK 
+NM TX 
+
+NY PA 
+NY VT 
+NY WV 
+
+NC SC 
+NC TN 
+NC VA 
+NC WV 
+
+ND SD 
+ND WY 
+
+OH PA 
+OH WV 
+
+OK TX 
+
+OR WA 
+
+PA WV 
+
+SD WY 
+
+TN VA 
+TN WV 
+
+UT WY 
+
+VA WV 
+

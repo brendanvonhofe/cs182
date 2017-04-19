@@ -1,0 +1,48 @@
+16 
+cs115
+cs135
+cs146
+cs284
+cs306
+cs347
+cs385
+cs334
+cs335
+cs370
+cs383
+cs392
+cs423
+cs442
+cs492
+cs496
+
+cs115 cs284
+
+cs115 cs334
+cs135 cs334
+
+cs334 cs496
+cs385 cs496
+
+cs385 cs442
+
+cs383 cs492
+
+cs385 cs392
+
+cs385 cs492
+
+cs135 cs347
+cs284 cs347
+
+cs385 cs423
+cs347 cs423
+
+cs385 cs370
+
+cs284 cs383
+
+cs284 cs385
+
+
+

@@ -1,0 +1,42 @@
+26 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+i 
+j 
+k 
+l 
+m 
+n 
+o 
+p 
+q 
+r 
+s 
+t 
+u 
+v 
+w 
+x 
+y 
+z 
+
+a b 
+a c 
+a e 
+a z 
+
+b c 
+b e 
+b z 
+
+c e 
+c z 
+
+z e 
+
